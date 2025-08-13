@@ -1,0 +1,21 @@
+/* ...existing code... */
+.app-layout {
+    display: flex;
+    flex-direction: row;
+    min-height: 100vh;
+}
+
+.main-content {
+    flex: 1;
+    /* margin-left is now handled inline in App.jsx */
+    /* Add padding if you want spacing inside the content */
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
