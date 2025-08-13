@@ -13,8 +13,8 @@ This project demonstrates user authentication, channel creation, video uploads, 
 
 ## Repository (fullstack and backend)
 
-- **Frontend:** [github.com/pallavi-vats/frontend/](https://github.com/pallavi-vats/youtube_clone/frontend)
-- **Backend:** [github.com/shivammishraa25/backend](https://github.com/pallavi-vats/youtube_clone/backend)
+- **Frontend:** [github.com/pallavi-vats/frontend/](https://github.com/pallavi-vats/youtube_clone_mern/frontend)
+- **Backend:** [github.com/shivammishraa25/backend](https://github.com/pallavi-vats/youtube_clone_mern/backend)
 
 ---
 
@@ -60,8 +60,8 @@ This project demonstrates user authentication, channel creation, video uploads, 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/pallavi-vats/youtube_clone.git
-cd youtube_clone
+git clone https://github.com/pallavi-vats/youtube_clone_mern.git
+cd youtube_clone_mern
 ```
 
 ---
